@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/github-rest-api-v3/static/css/main.45f95b8f.chunk.css",
+    "main.js": "/github-rest-api-v3/static/js/main.f9e28074.chunk.js",
+    "main.js.map": "/github-rest-api-v3/static/js/main.f9e28074.chunk.js.map",
+    "runtime-main.js": "/github-rest-api-v3/static/js/runtime-main.0a0457e4.js",
+    "runtime-main.js.map": "/github-rest-api-v3/static/js/runtime-main.0a0457e4.js.map",
+    "static/css/2.1530665a.chunk.css": "/github-rest-api-v3/static/css/2.1530665a.chunk.css",
+    "static/js/2.f79d57cd.chunk.js": "/github-rest-api-v3/static/js/2.f79d57cd.chunk.js",
+    "static/js/2.f79d57cd.chunk.js.map": "/github-rest-api-v3/static/js/2.f79d57cd.chunk.js.map",
+    "static/js/3.13b7c3a0.chunk.js": "/github-rest-api-v3/static/js/3.13b7c3a0.chunk.js",
+    "static/js/3.13b7c3a0.chunk.js.map": "/github-rest-api-v3/static/js/3.13b7c3a0.chunk.js.map",
+    "index.html": "/github-rest-api-v3/index.html",
+    "static/css/2.1530665a.chunk.css.map": "/github-rest-api-v3/static/css/2.1530665a.chunk.css.map",
+    "static/css/main.45f95b8f.chunk.css.map": "/github-rest-api-v3/static/css/main.45f95b8f.chunk.css.map",
+    "static/js/2.f79d57cd.chunk.js.LICENSE.txt": "/github-rest-api-v3/static/js/2.f79d57cd.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/github-rest-api-v3/static/media/roboto-condensed-latin-700italic.d58264d9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a0457e4.js",
+    "static/css/2.1530665a.chunk.css",
+    "static/js/2.f79d57cd.chunk.js",
+    "static/css/main.45f95b8f.chunk.css",
+    "static/js/main.f9e28074.chunk.js"
+  ]
+}
