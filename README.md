@@ -1,3 +1,4 @@
+
 <div align="center">
     <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/png/separator.png" width="100%"/>
 </div>
@@ -23,6 +24,9 @@ This repo holds the code for the GitHub REST API playground. The App is hosted l
 ![GitHub stars](https://img.shields.io/github/stars/adityabisoi/github-rest-api-v3)
 ![Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fadityabisoi%2Fgithub-rest-api-v3)
 <br>
+
+<br>
+
 
 
 ## 📌 Table of Contents 📌
@@ -78,10 +82,14 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) before contributing to the reposi
 
 ## ❤ Open Source Events
 This project is a part of NJHACK. For more details, you can check out [this link](https://njackwinterofcode.github.io/)
+<br>
 
 <p align = "center"><img src = "https://user-images.githubusercontent.com/42573842/101052659-eb1b1600-35ac-11eb-9a80-cfaa33a29b04.png" alt = "NJHACK Logo" height=200px></p>
 
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/png/footer.png" width="100%"/>
-</div>
+
+</div></div>
+=======
+
